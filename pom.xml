@@ -4,7 +4,7 @@
 
     <groupId>com.zoyi.jooq</groupId>
     <artifactId>jooq-generator</artifactId>
-    <version>3.7.2-SNAPSHOT</version>
+    <version>3.9.2-SNAPSHOT</version>
 
     <name>Jooq Generator</name>
     <description>Jooq Generator for ZOYI</description>
@@ -91,7 +91,7 @@
         <dependency>
             <groupId>org.jooq</groupId>
             <artifactId>jooq-codegen</artifactId>
-            <version>3.7.2</version>
+            <version>3.9.2</version>
         </dependency>
 
         <dependency>

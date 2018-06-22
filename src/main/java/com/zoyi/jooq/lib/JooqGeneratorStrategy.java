@@ -17,9 +17,9 @@
 package com.zoyi.jooq.lib;
 
 import org.javalite.common.Inflector;
+import org.jooq.codegen.DefaultGeneratorStrategy;
+import org.jooq.meta.Definition;
 import org.jooq.tools.StringUtils;
-import org.jooq.util.DefaultGeneratorStrategy;
-import org.jooq.util.Definition;
 
 /**
  * Created by red on 11/14/15.

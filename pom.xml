@@ -4,7 +4,7 @@
 
     <groupId>com.zoyi.jooq</groupId>
     <artifactId>jooq-generator</artifactId>
-    <version>3.10.1-SNAPSHOT</version>
+    <version>3.11.1-SNAPSHOT</version>
 
     <name>Jooq Generator</name>
     <description>Jooq Generator for ZOYI</description>
@@ -69,13 +69,13 @@
         <dependency>
             <groupId>org.jooq</groupId>
             <artifactId>jooq-codegen</artifactId>
-            <version>3.10.1</version>
+            <version>3.11.1</version>
         </dependency>
 
         <dependency>
             <groupId>org.javalite</groupId>
             <artifactId>javalite-common</artifactId>
-            <version>1.4.11</version>
+            <version>2.0</version>
         </dependency>
     </dependencies>
 
